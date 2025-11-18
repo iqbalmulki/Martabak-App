@@ -1,0 +1,22 @@
+# OS / Editor
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
+
+# Logs & temp
+*.log
+tmp/
+coverage/
+
+# Env/config
+.env
+.env.*
+
+# Dependencies (jika digunakan)
+vendor/
+node_modules/
+
+# Build artifacts (jika digunakan)
+dist/
+build/
