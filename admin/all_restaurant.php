@@ -252,6 +252,9 @@ session_start();
     <script src="js/sidebarmenu.js"></script>
     <script src="js/lib/sticky-kit-master/dist/sticky-kit.min.js"></script>
     <script src="js/custom.min.js"></script>
+    <script src="js/sidebar-menu-handler.js"></script>
+
+</body>
     <script src="js/lib/datatables/datatables.min.js"></script>
     <script src="js/lib/datatables/cdn.datatables.net/buttons/1.2.2/js/dataTables.buttons.min.js"></script>
     <script src="js/lib/datatables/cdn.datatables.net/buttons/1.2.2/js/buttons.flash.min.js"></script>

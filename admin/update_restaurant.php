@@ -424,6 +424,7 @@ if(isset($_POST['submit']))
     <script src="js/sidebarmenu.js"></script>
     <script src="js/lib/sticky-kit-master/dist/sticky-kit.min.js"></script>
     <script src="js/custom.min.js"></script>
+    <script src="js/sidebar-menu-handler.js"></script>
 
 </body>
 
